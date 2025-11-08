@@ -1,0 +1,28 @@
+#menu_principal{
+    align-items: center;
+    padding: 2%;
+}
+
+.padding{
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:darkgrey;
+    overflow: hidden;
+}
+
+#ada_inicio{
+    max-width: 50vh;
+}
+
+#inicio .row{
+    min-height: 100vh;
+}
+
+footer{
+   background-color:darkgrey ; 
+}
