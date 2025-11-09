@@ -1,1 +1,32 @@
 Quem foi Ada Lovelace?
+
+"Meu cérebro é mais do que algo meramente mortal, e o tempo mostrará isso."
+"Quanto mais estudo, mais sinto que minha mente nisso é insaciável."
+"Estou em encantador estado de confusão."
+
+<div class="row">
+                <div class="col-md-4 p-2">
+                    <div class="card bg-dark border-0">
+                        <div class="card-body">
+                            <img src="./imgs/aspas_azul.png" id="aspas">
+                            <p class="card-text text-white">Meu cérebro é mais do que algo meramente mortal, e o tempo mostrará isso.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 p-2">
+                    <div class="card bg-dark border-0">
+                        <div class="card-body">
+                            <img src="./imgs/aspas_azul.png" id="aspas">
+                            <p class="card-text text-white">O intelectual, a moral, o religioso me parecem naturalmente ligados em um todo harmonioso.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 p-2">
+                    <div class="card bg-dark border-0">
+                        <div class="card-body">
+                            <img src="./imgs/aspas_azul.png" id="aspas">
+                            <p class="card-text text-white">Quanto mais estudo, mais sinto que minha mente nisso é insaciável.</p>
+                        </div>
+                    </div>
+                </div>
+</div>

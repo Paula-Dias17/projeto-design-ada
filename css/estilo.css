@@ -1,6 +1,6 @@
 #menu_principal{
     align-items: center;
-    padding: 2%;
+    padding: 10px;
 }
 
 .padding{
@@ -12,15 +12,19 @@
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color:darkgrey;
-    overflow: hidden;
 }
 
 #ada_inicio{
     max-width: 50vh;
 }
 
-#inicio .row{
-    min-height: 100vh;
+#frases{
+    margin-top: 15px;
+}
+
+#aspas{
+    max-width: 5vh;
+    margin: 0px;
 }
 
 footer{
